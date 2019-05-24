@@ -1,0 +1,35 @@
+Deck:
+Name: Cool_Deck
+Creature 1 Poor_Archer 1  1 2
+Creature 2 Sir_Arthur 2 2 3
+Creature 3 Boar 1 2 2
+Creature 4 Mage 3 3 5
+Creature 5 Yeti 5 5 7
+Creature 6 Thief 4 3 8
+Creature 7 Mosquito 1 1 1
+Creature 8 Brave_Paladin 3 3 4
+Creature 9 Witch 2 1 5
+Weapon   10 Axe 3 1 3
+Weapon  11 Ancient_Spear 2 2 2
+Spell  12 Avada_Cedavra 4 5 2
+
+DECK_END
+
+
+Deck:
+Name: Amazing_Deck
+Spell    18 Wild_Fire 1 5 2
+Weapon   16 Knife 1 1 3
+Creature 19 Poor_Knight 1  1 2
+Creature 20 Sir_Matthew 2 2 3
+Creature 21 Boar 1 2 2
+Creature 22 Mosquito 1 1 1
+Creature 23 Brave_Paladin 3 3 4
+Creature 24 Witch 2 1 5
+Creature 13 Mage 3 3 5
+Creature 14 Yeti 5 5 7
+Creature 15 Thief 4 3 8
+Weapon  17 Ancient_Axe 2 2 2
+DECK_END
+
+END

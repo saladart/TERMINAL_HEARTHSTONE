@@ -1,0 +1,12 @@
+Card RPG game engine (Heartstone-based) by Artem Tokarevskikh (FIT CVUT B182)
+
+This game-engine is simplified version of Heartstone by Blizzard.
+
+In this version there's only three types of card: Weapon, Creature, Spell.
+Players do not have different heroes to choose.
+There's two types of game: player vs. player and player vs. computer
+Player can throw to the table only Creature card. Player may have Weapon in "hand" and can attack with it. 
+Spell eventually used. After spell was applied there're circumstances. If card was under attack, it cannot attack next round. Player loses all his mana after being attacked
+Cards and players can attack other cards and players. 
+
+Player can surrender or save game to finish it later. If you change Decks file, save can be damaged, so DO NOT DO IT.  
